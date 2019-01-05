@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="StarView">
+        <attr name="selectedDrawable" format="reference" />
+        <attr name="unSelectedDrawable" format="reference" />
+        <attr name="max" format="integer" />
+        <attr name="value" format="integer" />
+        <attr name="clickEnable" format="boolean" />
+    </declare-styleable>
+
+
+</resources>
